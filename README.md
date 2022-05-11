@@ -1,5 +1,11 @@
-# python
-python程序
+# python python程序
+
+该项目是本人大学时期的课程设计，已不再维护
+
+## 项目链接
+[Github](https://github.com/ALI1416/python)
+
+[Gitee](https://gitee.com/ALI1416/python)
 
 ## 许可证
 [![License](https://img.shields.io/badge/license-BSD-brightgreen)](https://opensource.org/licenses/BSD-3-Clause)
